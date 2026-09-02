@@ -14,7 +14,6 @@
   "emmet.triggerExpansionOnTab": true,
   "explorer.openEditors.visible": 0,
   "files.autoSave": "afterDelay",
-  "screencastMode.onlyKeyboardShortcuts": true,
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   // "files.exclude": {
